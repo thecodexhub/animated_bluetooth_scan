@@ -1,15 +1,12 @@
-# animatedbluetoothscan
+# Bluetooth Scan Animation
 
 An animated bluetooth scan developed using Flutter.
 
+## Video demo
+
+To see the animation, click [here](https://www.instagram.com/p/CB20lqMAfQ-/?utm_source=ig_web_copy_link).
+
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
